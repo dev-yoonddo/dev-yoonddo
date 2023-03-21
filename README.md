@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=YoonseoJeong&fontSize=50&fontColor=black)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=270&section=header&text=YoonseoJeong&fontSize=60&fontColor=black)
 
 
 
