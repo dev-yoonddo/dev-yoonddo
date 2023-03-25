@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=WELCOME&fontAlign=90&fontSize=60&rotate=13&fontAlignY=25&desc=to%20my%20github.&descAlign=70.&descAlignY=44)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=WELCOME&fontAlign=80&fontSize=60&rotate=13&fontAlignY=25&desc=to%20my%20github.&descAlign=70.&descAlignY=44)
 
 <div class="readme" align="center";>
 <div class="text">
