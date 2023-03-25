@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=slice&color=#40E0D0,100:a82da8&height=200&section=header&text=YoonseoJeong&fontSize=60&fontColor=black)
+![Header](https://capsule-render.vercel.app/api?type=slice&color=#40E0D0&height=200&section=header&text=YoonseoJeong&fontSize=60&fontColor=black)
 
 
 <div class="readme" align="center";>
