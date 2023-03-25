@@ -7,14 +7,13 @@
 <div class="readme" align="left";>
 <div class="text">
  
-#안녕하세요 꾸준히 공부하며 기록하는<br>프론트엔드 웹 개발자 정윤서입니다!
+<h2>안녕하세요 꾸준히 공부하며 기록하는<br>프론트엔드 웹 개발자 정윤서입니다!</h2>
 
   
----
-  
+
 <h4>🌱BLOG : <a href="https://tistory.com/yoonddo/">https://tistory.com/yoonddo</a></h4>
-  
----
+<br>
+
 <!--
 
 Here are some ideas to get you started:
@@ -28,17 +27,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
+
 <h2>Tech Stack</h2>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/><br><img src="https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jQuery&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=plastic&logo=EclipseIDE&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=plastic&logo=ApacheTomcat&logoColor=white"/>
 </div>
   
----
+<br>
   
 <div class="git" style="display: flex">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-yoonddo)](https://github.com/dev-yoonddo/github-readme-stats)
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-yoonddo)](https://github.com/dev-yoonddo/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-yoonddo)](https://github.com/dev-yoonddo/github-readme-stats)
+
 </div>
 
 </div>
