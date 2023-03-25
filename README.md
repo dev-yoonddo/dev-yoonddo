@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=slice&color=random,100:a82da8&height=200&section=header&text=YoonseoJeong&fontSize=60&fontColor=black)
+![Header](https://capsule-render.vercel.app/api?type=slice&color=40E0D0,100:a82da8&height=200&section=header&text=YoonseoJeong&fontSize=60&fontColor=black)
 
 
 <div class="readme" align="center";>
@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-yoonddo)](https://github.com/dev-yoonddo/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-yoonddo)](https://github.com/dev-yoonddo/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-yoonddo&show_icons=true&theme=radical)
 </div>
 
 </div>
