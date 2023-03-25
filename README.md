@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=WELCOME&fontAlign=80&fontSize=60&rotate=13&fontAlignY=25&desc=to%20my%20github.&descAlign=70.&descAlignY=44)
 
+
+
 <div class="readme" align="center";>
 <div class="text">
-<h3>안녕하세요 프론트엔드 웹 개발자 정윤서입니다.</h3>
+<h3>안녕하세요 꾸준히 공부하며 기록하는<br>프론트엔드 웹 개발자 정윤서입니다!</h3>
 
 <h4>🌱BLOG : <a href="https://tistory.com/yoonddo/">https://tistory.com/yoonddo</a></h4>
 
