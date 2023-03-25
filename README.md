@@ -1,12 +1,12 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=270&section=header&text=YoonseoJeong&fontSize=60&fontColor=black)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=270&section=header&text=Yoonseo Jeong&fontSize=60&fontColor=black)
 
 
 
 <div class="readme" align="center";>
 <div class="text">
-<h4>안녕하세요 프론트엔드 웹 개발자 정윤서입니다.</h4>
+<h3>안녕하세요 프론트엔드 웹 개발자 정윤서입니다.</h3>
 
-<h4>🌱My Tistory🌱<a href="https://tistory.com/yoonddo/">https://tistory.com/yoonddo</a></h4>
+<h4>🌱BLOG : <a href="https://tistory.com/yoonddo/">https://tistory.com/yoonddo</a></h4>
 
 <!--
 
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h4>Tech Stack</h4>
+<h2>Tech Stack</h2>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=fsquare&logo=JavaScript&logoColor=white"/><br><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery3&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=white"/>
 </div>
