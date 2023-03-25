@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=random,width=100%&height=270&section=header&text=YoonseoJeong&fontSize=60&fontColor=black)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=random,100:a82da8&height=270&section=header&text=YoonseoJeong&fontSize=60&fontColor=black)
 
 
 
@@ -29,10 +29,11 @@ Here are some ideas to get you started:
 <div class="git" style="display: flex">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-yoonddo)](https://github.com/dev-yoonddo/github-readme-stats)
-</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-yoonddo)](https://github.com/dev-yoonddo/github-readme-stats)
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-yoonddo&show_icons=true&theme=radical)
+  
+  </div>
 
 </div>
 </div>
