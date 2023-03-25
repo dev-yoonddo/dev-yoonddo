@@ -4,7 +4,7 @@
 
 
 
-<div class="readme" align="left";>
+<div class="readme" align="center";>
 <div class="text">
  
 <h2>안녕하세요 꾸준히 공부하며 기록하는<br>프론트엔드 웹 개발자 정윤서입니다!</h2>
