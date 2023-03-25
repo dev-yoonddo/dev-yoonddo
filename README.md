@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=slice&color=random,100:a82da8&height=270&section=header&text=YoonseoJeong&fontSize=60&fontColor=black)
+![Header](https://capsule-render.vercel.app/api?type=slice&color=random,100:a82da8&height=200&section=header&text=YoonseoJeong&fontSize=60&fontColor=black)
 
 
 <div class="readme" align="center";>
@@ -34,6 +34,4 @@ Here are some ideas to get you started:
 
 </div>
 </div>
-<footer>
-![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&color=random)
-</footer>
+
