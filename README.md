@@ -1,7 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=#7FFFD4&height=200&text=WELCOME&fontAlign=80&fontSize=60&animation=blinking&rotate=13&fontAlignY=25&desc=to%20my%20github.&descAlign=70.&descAlignY=44)
+![header](https://capsule-render.vercel.app/api?type=slice&color=_7FFFD4&height=200&text=WELCOME&fontAlign=80&fontSize=60&animation=blinking&rotate=13&fontAlignY=25&desc=to%20my%20github.&descAlign=70.&descAlignY=44)
 
 
--nl--nl--nl-
+
+
 <div class="readme" align="center";>
 <div class="text">
 <h3>안녕하세요 꾸준히 공부하며 기록하는<br>프론트엔드 웹 개발자 정윤서입니다!</h3>
