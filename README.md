@@ -40,7 +40,6 @@ Here are some ideas to get you started:
 <div class="git" style="display: flex">
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-yoonddo)](https://github.com/dev-yoonddo/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-yoonddo)](https://github.com/dev-yoonddo/github-readme-stats)
 
 </div>
 
