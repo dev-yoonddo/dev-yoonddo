@@ -1,11 +1,9 @@
-<div class="readme">
+<div class="readme" align="center">
  
-![header](https://capsule-render.vercel.app/api?type=slice&color=FFFFFF&height=180&text=WELCOME&fontAlign=75&fontSize=60&animation=blinking)
+![header](https://capsule-render.vercel.app/api?type=slice&color=FFFFFF&height=180&text=Welcome&nbsp;My&nbsp;GitHub&nbsp;!&fontAlign=50&fontSize=60&animation=blinking)
 
  
-<h2>안녕하세요<br>
- 
- 개발자 정윤서입니다!</h2>  
+<h2>안녕하세요 개발자 정윤서입니다 </h2>  
 
 ### BLOG
 
@@ -96,10 +94,16 @@ https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 -->
-  
+
+<br>
+
+<hr>
+
+<br>
+
 <div class="git">
 
-### Status
+### Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-yoonddo&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-yoonddo&layout=compact&theme=merko)
