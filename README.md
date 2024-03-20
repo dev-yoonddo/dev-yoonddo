@@ -3,7 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=eeeeee&height=180&text=Welcome&nbsp;to&nbsp;my&nbsp;GitHub&nbsp;!&fontAlign=50&fontSize=60&animation=blinking)
 
  
-<h2>안녕하세요 개발자 정윤서입니다 </h2>  
+<h2>안녕하세요 개발자 정윤서입니다 </h2>
+아이디어를 실현시키는 개발자가 되기위해 노력하고 있습니다!
 
 ### BLOG
 
