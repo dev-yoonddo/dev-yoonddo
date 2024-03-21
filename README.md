@@ -2,16 +2,16 @@
  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=eeeeee&height=180&text=Welcome&nbsp;to&nbsp;my&nbsp;GitHub&nbsp;!&fontAlign=50&fontSize=60&animation=blinking)
 
- 
-<h2>안녕하세요 개발자 정윤서입니다 </h2>
-아이디어를 실현시키는 개발자가 되기위해 노력하고 있습니다!
+<h2> 안녕하세요 백엔드 개발자 정윤서입니다 !</h2>
+☝ 아이디어를 실현하는 개발을 목표로 합니다. <BR>
+✌ 협업 능력 향상을 위해 꾸준히 공부하고 있습니다.
 
-### BLOG
+<br>
+
+### TECH BLOG
 
 <a href="https://velog.io/@yoonddo"><img src="https://img.shields.io/badge/Velog-3DDC84?style=for-the-badge&logo=Blogger&logoColor=white"></a>
 <a href="https://yoonddo.tistory.com"><img src="https://img.shields.io/badge/Tistory-orange?style=for-the-badge&logo=Blogger&logoColor=white"></a>
-
-<br>
 
 <!--
 
@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <section style=" display:flex;">
  
 <div>
