@@ -3,8 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=eeeeee&height=180&text=Welcome&nbsp;to&nbsp;my&nbsp;GitHub&nbsp;!&fontAlign=50&fontSize=60&animation=blinking)
 
 <h2> 안녕하세요 백엔드 개발자 정윤서입니다 !</h2>
-☝ 아이디어를 실현하는 개발을 목표로 합니다. <BR>
-✌ 협업 능력 향상을 위해 꾸준히 공부하고 있습니다. <br>
+☝ 상상속 아이디어를 실현하는 개발을 목표로 합니다. <BR>
+✌ 협업 능력 향상을 위해 스터디와 개인공부를 꾸준히 하고 있습니다. <br>
 
 <br>
 
