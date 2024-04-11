@@ -1,3 +1,4 @@
+
 <div class="readme" align="center">
  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=eeeeee&height=180&text=Welcome&nbsp;to&nbsp;my&nbsp;GitHub&nbsp;!&fontAlign=50&fontSize=60&animation=blinking)
@@ -5,9 +6,10 @@
 <h2> 안녕하세요 백엔드 개발자 정윤서입니다 !</h2>
 👉 상상속 아이디어를 실현하는것을 좋아하며, 새롭고 편리한 서비스 구현을 목표로 개발합니다. <BR>
 👉 효과적인 커뮤니케이션을 위해 개인역량 강화에 몰두하고 있습니다. <br>
-
 <br>
 
+<div id="stack" align="center">
+ 
 ### TECH BLOG
 
 <a href="https://velog.io/@yoonddo"><img src="https://img.shields.io/badge/Velog-3DDC84?style=for-the-badge&logo=Blogger&logoColor=white"></a>
@@ -26,9 +28,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<section style=" display:flex;">
- 
-<div style="float: left;">
+
+<div id="stack2" align="center">
  
  ### TECH STACK
 
@@ -120,6 +121,7 @@ https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate
 
 <br>
 
+</div>
 <div class="git">
 
 ### Stats
@@ -128,7 +130,4 @@ https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-yoonddo&layout=compact&theme=merko)
 
 </div>
-
-</section>
-
 </div>
