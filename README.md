@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 -->
 <section style=" display:flex;">
  
-<div style="align-items: left">
+<div style="float: left;">
  
  ### TECH STACK
 
