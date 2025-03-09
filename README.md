@@ -57,6 +57,7 @@ Here are some ideas to get you started:
 <div>
 <img src="https://img.shields.io/badge/Database-%23121011?style=for-the-badge">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/mysql-%231287B1?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/5.5-515151?style=for-the-badge"><br>
+<img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white"/><br>
 </div>
 
 <!-- ORM -->
