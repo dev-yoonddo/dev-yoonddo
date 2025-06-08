@@ -3,7 +3,7 @@
  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=eeeeee&height=180&text=Welcome&nbsp;to&nbsp;my&nbsp;GitHub&nbsp;!&fontAlign=50&fontSize=60&animation=blinking)
 
-<h2> 안녕하세요 백엔드 개발자 정윤서입니다</h2>
+<h2> 안녕하세요 개발자 정윤서입니다</h2>
 👉 상상속 아이디어를 실현하는것을 좋아하며, 새롭고 편리한 서비스 구현을 목표로 개발합니다. <BR>
 👉 효과적인 커뮤니케이션을 위해 개인역량 강화에 몰두하고 있습니다. <br>
 <br>
@@ -125,10 +125,7 @@ https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate
 </div>
 <div class="git">
 
-### Stats
-
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-yoonddo&show_icons=true&theme=merko)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-yoonddo&layout=compact&theme=merko)
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 </div>
 </div>
