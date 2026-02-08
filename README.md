@@ -12,7 +12,6 @@
 ### TECH BLOG
 
 <a href="https://velog.io/@yoonddo"><img src="https://img.shields.io/badge/Velog-3DDC84?style=for-the-badge&logo=Blogger&logoColor=white"></a>
-<a href="https://yoonddo.tistory.com"><img src="https://img.shields.io/badge/Tistory-orange?style=for-the-badge&logo=Blogger&logoColor=white"></a>
 
 <!--
 
