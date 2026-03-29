@@ -1,129 +1,79 @@
+<div align="center">
 
-<div class="readme" align="center">
- 
-![header](https://capsule-render.vercel.app/api?type=waving&color=eeeeee&height=180&text=Welcome&nbsp;to&nbsp;my&nbsp;GitHub&nbsp;!&fontAlign=50&fontSize=60&animation=blinking)
-
-<h2> 안녕하세요 개발자 정윤서입니다</h2>
-상상속 아이디어를 실현하는것을 좋아하며, 새롭고 편리한 서비스 구현을 목표로 개발합니다. <BR>
-<br>
-
-<div id="stack" align="center">
- 
-### TECH BLOG
-
-<a href="https://velog.io/@yoonddo"><img src="https://img.shields.io/badge/Velog-3DDC84?style=for-the-badge&logo=Blogger&logoColor=white"></a>
-
-<!--
-
-Here are some ideas to get you started:
-✨
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<div id="stack2" align="center">
- 
- ### TECH STACK
-
-<!-- Language -->
-<div>
-<img src="https://img.shields.io/badge/Language-%23121011?style=for-the-badge&">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"><img src="https://img.shields.io/badge/8,17-515151?style=for-the-badge"><br>
-</div>
-
-<!-- Framework -->
-<div>
-<img src="https://img.shields.io/badge/Framework-%23121011?style=for-the-badge">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/springboot-%6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white"><br>
-</div>
-
-<!-- Build -->
-<div>
-<img src="https://img.shields.io/badge/Build-%23121011?style=for-the-badge">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white">
-<img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white"><br>
-</div>
-
-<!-- DB -->
-<div>
-<img src="https://img.shields.io/badge/Database-%23121011?style=for-the-badge">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/mysql-%231287B1?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/5.5-515151?style=for-the-badge"><br>
-<img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white"/><br>
-</div>
-
-<!-- ORM -->
-<div>
-<img src="https://img.shields.io/badge/orm-%23121011?style=for-the-badge">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Hibernate-%23006f5c?style=for-the-badge&logo=Hibernate&logoColor=white"><img src="https://img.shields.io/badge/5.6.8-515151?style=for-the-badge"><br>
-</div>
-
-<div>
-<!-- Sql Mapper -->
-<img src="https://img.shields.io/badge/sqlmapper-%23121011?style=for-the-badge">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/MyBatis-%23006f5c?style=for-the-badge&logo=mybatis&logoColor=white">
-<img src="https://img.shields.io/badge/SpringJDBC-%23006f5c?style=for-the-badge&logo=jdbc&logoColor=white"><br>
-</div>
-
-<!-- Server -->
-<div>
-<img src="https://img.shields.io/badge/server-%23121011?style=for-the-badge">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black"><img src="https://img.shields.io/badge/8.5.88-515151?style=for-the-badge"><br>
-</div>
-
-<!-- Infra -->
-<div>
-<img src="https://img.shields.io/badge/Infra-%23121011?style=for-the-badge">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"><img src="https://img.shields.io/badge/EC2,RDS-515151?style=for-the-badge"><br>
-</div>
-
-<!-- Tools -->
-<div>
-<img src="https://img.shields.io/badge/Tools-%23121011?style=for-the-badge">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/IntelliJIDEA-%0f0f0f?style=for-the-badge&logo=intellij-idea&logoColor=white&color=838485">
-<img src="https://img.shields.io/badge/Eclipse-%FE7A16?style=for-the-badge&logo=Eclipse&logoColor=white&color=%232C3454"><br>
-</div>
-
-<!-- Others -->
-<div>
-<img src="https://img.shields.io/badge/others-%23121011?style=for-the-badge">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-%23FF9A00?style=for-the-badge&logo=javascript&logoColor=white8">
-<img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=eeeeee&width=1200&height=150&text=Jeong%20Yoon-Seo&fontAlign=50&fontSize=48&animation=blinking&fontColor=1A1A1A" width="100%" />
 
 </div>
-<!--
-https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white
-https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
-https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
-https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white
-https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
-https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
-https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
-https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
--->
 
-<br>
 
-<hr>
 
-<br>
+```
+💻  Backend Developer
+✍️  복잡함을 줄이고, 구조로 말합니다.
+📍  Gyeonggi-do, Korea
+```
 
-</div>
-<div class="git">
+<br><br>
 
+## 🛠 Tech Stack
+
+**Language**
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Framework**
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+**Database**
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%231287B1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**ORM · SQL Mapper**
+![MyBatis](https://img.shields.io/badge/MyBatis-%23006f5c?style=for-the-badge&logoColor=white)
+![JPA · Hibernate](https://img.shields.io/badge/JPA%20·%20Hibernate-%23006f5c?style=for-the-badge&logo=Hibernate&logoColor=white)
+
+**Build**
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+
+**Server**
+![Tomcat](https://img.shields.io/badge/Tomcat-%23F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+![WebLogic](https://img.shields.io/badge/WebLogic-E20000?style=for-the-badge&logo=oracle&logoColor=white)
+
+**Infra · DevOps**
+![AWS](https://img.shields.io/badge/AWS%20EC2%20·%20RDS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Frontend · Others**
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Vue 3](https://img.shields.io/badge/Vue%203-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
+
+**Tools**
+![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-%232C3454?style=for-the-badge&logo=eclipse&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
+![SQL Developer](https://img.shields.io/badge/SQL%20Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<br><br>
+
+## 🔗 Links
+
+- ✍️ Blog → [velog.io/@yoonddo](https://velog.io/@yoonddo)
+
+
+
+<div align="center">
+
+<!-- 3D Contribution Graph (profile-3d-contrib) -->
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
-</div>
 </div>
